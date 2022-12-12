@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+body{
+   border-left: 5px solid salmon;
+    padding-left: 20px;
+    background-color: bisque;
+    max-width: fit-content;
+}
